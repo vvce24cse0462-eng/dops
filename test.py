@@ -2,5 +2,4 @@ print("vvce")
 print("cse")
 print("roopa")
 print("risha")
-print("POOJA  b n")
-print("Divya K")
+
